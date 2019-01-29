@@ -1,0 +1,18 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "2 Player tic tac toe game",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jade": "^1.11.0",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "author": "Ankita Kurdukar",
+  "license": "ISC"
+}
